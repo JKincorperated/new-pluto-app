@@ -9,5 +9,6 @@
         "ora": "^8.0.1"
     },
     "type": "module",
-    "new-pluto-app": "index.js"
+    "new-pluto-app": "index.js",
+    "homepage": "https://github.com/JKincorperated/new-pluto-app"
 }
