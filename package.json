@@ -1,6 +1,6 @@
 {
     "name": "new-pluto-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "dependencies": {
         "@inquirer/confirm": "^3.0.0",
