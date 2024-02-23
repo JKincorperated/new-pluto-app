@@ -1,0 +1,11 @@
+{
+  "name": "pluto-devkit",
+  "version": "1.0.0",
+  "description": "Simple devkit for making and managing pluto applications",
+  "bin": {
+    "new-pluto-app": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
