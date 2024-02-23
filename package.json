@@ -1,11 +1,13 @@
 {
-  "name": "pluto-devkit",
-  "version": "1.0.0",
-  "description": "Simple devkit for making and managing pluto applications",
-  "bin": {
-    "new-pluto-app": "./index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+    "name": "new-pluto-app",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "@inquirer/confirm": "^3.0.0",
+        "@inquirer/prompts": "^4.1.0",
+        "@inquirer/select": "^2.0.0",
+        "ora": "^8.0.1"
+    },
+    "type": "module",
+    "new-pluto-app": "index.js"
 }
